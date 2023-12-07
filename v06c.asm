@@ -1,12 +1,12 @@
 ; Vector-06c entry for https://logiker.com/Vintage-Computing-Christmas-Challenge-2023
 ; $> pasm v06c.asm vccc2023v06c.rom && /d/8-16bit/Vector-06c/emulators/v06x-8b8-win64/v06x.exe --rom vccc2023v06c.rom
-        .project vccc2023v06c.rom
-        .tape vccc2023v06c
+    .project vccc2023v06c.rom
+    .tape vccc2023v06c
 
-        .org 100h
+    .org 100h
 
         di
-        lxi	    sp,100h
+        lxi     sp,100h
         lxi     h,0c0e0h
         call    print_main
         mvi     l,0b0h
