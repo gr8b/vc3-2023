@@ -4,9 +4,9 @@ Author: gr8b/crushers
 Category: Christmas Challenge
 System:   Vector-06c, https://en.wikipedia.org/wiki/Vector-06C
 Language: pretty-assembler
-Len source code: 1295
-Len exe file:    71
-Len code only:   66
+Len source code: 1226
+Len exe file:    64
+Len code only:   64
 Instructions:
 Download emulator https://github.com/svofski/vector06sdl/releases, tested with version godot-8b8.
 Open and click on "cassette" icon then select .rom file.
