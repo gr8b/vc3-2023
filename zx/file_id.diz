@@ -1,0 +1,15 @@
+Chrismas star
+
+Author: gr8b/crushers
+Category: Wild
+System:   ZX-SPECTRUM
+Language: sjasm
+Len source code: 1257
+Len exe file:    68
+Len code only:   68
+Instructions:
+Open zx.sna with any speccy emulator.
+Description:
+Drawing a line, moving diagonally, and making a "turn left" when reaching the boundary, until we return to the starting point. The operation is repeated for three different starting points.
+Comments:
+Всем счастливого рождества!
